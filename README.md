@@ -4,7 +4,7 @@
 
 # Data Webinars
 
-This repository (will) contain(s) the material used in the data webinar sessions. You can manually download the files for each session, or use git to clone and update.
+This repository contain(s) the material used in the data webinar sessions. You can manually download the files for each session, or use git to clone and update.
 
 You can use [GitHub Desktop](https://desktop.github.com/) to update this repository as new materials are published. 
 
