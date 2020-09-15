@@ -13,10 +13,10 @@ You can use [GitHub Desktop](https://desktop.github.com/) to update this reposit
 
 | Week | Date       | Topic                      | Speaker          | Registration                                                                                                                                    |
 | ---- | ---------- | -------------------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1    | 01/05/2020 | [Working with PDF in python](https://git.generalassemb.ly/Ashray/Data-Webinars/tree/master/Working%20with%20PDF%20in%20python) | Olusegun Folarin | ~~link~~ |
-| 2    | 07/05/2020 | [Plotly Dashboard Creation](https://git.generalassemb.ly/Ashray/Data-Webinars/tree/master/Plotly%20Dashboard%20Creation)  | Alastair Tyson   | ~~link~~ |
-| 3    | 15/05/2020 | [Data Wrangling Process](https://git.generalassemb.ly/Ashray/Data-Webinars/tree/master/Data%20Wrangling%20Process)     | Ashray Shetty    | ~~link~~  |
-| 4    | 22/05/2020 | [Transform Data Using DBT (data build tool)](https://git.generalassemb.ly/Ashray/Data-Webinars/tree/master/Transform%20Data%20Using%20DBT)   | Nina Anderson    | ~~link~~  |
+| 1    | 01/05/2020 | [Working with PDF in python](https://github.com/WhiteHat-Data-Science/Data-Webinars-01/tree/master/Working%20with%20PDF%20in%20python) | Olusegun Folarin | ~~link~~ |
+| 2    | 07/05/2020 | [Plotly Dashboard Creation](https://github.com/WhiteHat-Data-Science/Data-Webinars-01/tree/master/Plotly%20Dashboard%20Creation)  | Alastair Tyson   | ~~link~~ |
+| 3    | 15/05/2020 | [Data Wrangling Process](https://github.com/WhiteHat-Data-Science/Data-Webinars-01/tree/master/Data%20Wrangling%20Process)     | Ashray Shetty    | ~~link~~  |
+| 4    | 22/05/2020 | [Transform Data Using DBT (data build tool)](https://github.com/WhiteHat-Data-Science/Data-Webinars-01/tree/master/Transform%20Data%20Using%20DBT)   | Nina Anderson    | ~~link~~  |
 
  
  ## Upcoming:
