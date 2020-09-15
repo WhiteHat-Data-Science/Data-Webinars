@@ -33,7 +33,7 @@ Analysts using dbt can transform their data by simply writing select statements,
 
 These select statements, or "models", form a dbt project. Models frequently build on top of one another – dbt makes it easy to [manage relationships](https://docs.getdbt.com/docs/ref) between models, and [visualize these relationships](https://docs.getdbt.com/docs/documentation), as well as assure the quality of your transformations through [testing](https://docs.getdbt.com/docs/testing).
 
-![dbt dag](https://git.generalassemb.ly/Ashray/Data-Webinars/blob/master/images/dbt-dag.png?raw=true)
+![dbt dag](https://github.com/WhiteHat-Data-Science/Data-Webinars/blob/master/images/dbt-dag.png?raw=true)
 
 ## Getting started
 
