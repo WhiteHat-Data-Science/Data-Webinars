@@ -1,5 +1,5 @@
-<a href="https://git.generalassemb.ly/Ashray/Data-Webinars/blob/master/images/whitehat.png">
-  <img src="https://git.generalassemb.ly/Ashray/Data-Webinars/blob/master/images/whitehat.png?raw=true" />
+<a href="https://github.com/WhiteHat-Data-Science/Data-Webinars/blob/master/images/whitehat.png?raw=trueg">
+  <img src="https://github.com/WhiteHat-Data-Science/Data-Webinars/blob/master/images/whitehat.png?raw=true" />
 </a>
 
 # About this webinar
