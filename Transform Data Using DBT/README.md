@@ -23,7 +23,7 @@ Access Password: 7y+8x$e1
 
 dbt is the T in ELT. Organize, cleanse, denormalize, filter, rename, and pre-aggregate the raw data in your warehouse so that it's ready for analysis.
 
-![dbt architecture](https://git.generalassemb.ly/Ashray/Data-Webinars/blob/master/images/dbt-arch.png?raw=true)
+![dbt architecture](https://github.com/WhiteHat-Data-Science/Data-Webinars/blob/master/images/dbt-arch.png?raw=true)
 
 dbt can be used to [aggregate pageviews into sessions](https://github.com/fishtown-analytics/snowplow), calculate [ad spend ROI](https://github.com/fishtown-analytics/facebook-ads), or report on [email campaign performance](https://github.com/fishtown-analytics/mailchimp).
 
